@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>College Home Page</title>
+	 <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Parul University</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#">About Us</a></li>
+			<li><a href="#">Courses</a></li>
+			<li><a href="#">Contact Us</a></li>
+		</ul>
+	</nav>
+	<main>
+		<section>
+			<h2>Welcome to Our College</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+			<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+		</section>
+		<section class="login-register">
+			<h2>Login/Register</h2>
+			<form action="" method="post">
+				<label for="username">
